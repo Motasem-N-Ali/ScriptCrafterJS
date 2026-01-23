@@ -1,14 +1,13 @@
 Hi 👋 My name is Motasem Ali
 ============================
 
-Full Stack Web Developer
-------------------
+Software Developer | Software Engineer
+--------------------------------------
 
 I’m not that intelligent 🧠, but I’m smart ♟️ 
 
-*   🌍  I'm based in Palestine 🍉
 *   ✉️  You can contact me at [motasem.nabil.ali@gmail.com](mailto:motasem.nabil.ali@gmail.com)
-*   ⚡  I love Reading Books
+*   ⚡  I love Reading Books / Articles / Newsletters / Blogs about Tech
 
 ### Technologies I Use
 
