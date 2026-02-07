@@ -4,10 +4,9 @@ Hi 👋 My name is Motasem Ali
 Software Developer | Software Engineer
 --------------------------------------
 
-I’m not that intelligent 🧠, but I’m smart ♟️ 
+Hyper Tactical Mind 🧠
 
 *   ✉️  You can contact me at [motasem.nabil.ali@gmail.com](mailto:motasem.nabil.ali@gmail.com)
-*   ⚡  I love Reading Books / Articles / Newsletters / Blogs about Tech
 
 ### Technologies I Use
 
